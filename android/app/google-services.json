@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "104474286965",
+    "project_id": "amplify-1da38",
+    "storage_bucket": "amplify-1da38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104474286965:android:cf9697c24da7049cb8913c",
+        "android_client_info": {
+          "package_name": "com.example.amplify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104474286965-nerfidnorns2agnq9qlvlmg5q0rlm893.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaB66f0fqSUnae7vcKXlCj9zrttM2ZxpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104474286965-nerfidnorns2agnq9qlvlmg5q0rlm893.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104474286965-0le0nri355q2n0r9hr5ql6tgl941mlk4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.redditTutorial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104474286965:android:491313ec00030e82b8913c",
+        "android_client_info": {
+          "package_name": "com.example.reddit_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104474286965-nerfidnorns2agnq9qlvlmg5q0rlm893.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaB66f0fqSUnae7vcKXlCj9zrttM2ZxpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104474286965-nerfidnorns2agnq9qlvlmg5q0rlm893.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104474286965-0le0nri355q2n0r9hr5ql6tgl941mlk4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.redditTutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
